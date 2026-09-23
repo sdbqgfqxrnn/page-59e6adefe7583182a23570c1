@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2c0689d79d0c4231f193b035",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-59e6adefe7583182a23570c1",
+  "title": "银河加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "59e6adefe7583182a23570c1",
+      "a": "银河加速",
+      "b": "2027最新官网",
+      "entity": "银河加速",
+      "brand": "银河加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "452b3bc92f0c15033a514681a9bd56ca182ff0f645a99bd1699ee788147c9953",
+      "content": {
+        "primary_entity": "银河加速",
+        "keyword1": "银河加速",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，手机、电脑与路由器分别对照文档安装。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档完成订阅导入，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置银河加速",
+          "AI_DESCRIPTION": "，银河加速面向跨境访问场景，提供基础版、旗舰版与团队版三档套餐，月流量从100GB覆盖到1000GB，支持3至20台设备同时在线。旗舰版搭载IPLC专线并对游戏加速优化，全节点原生流媒体解锁；团队版提供VIP高带宽节点与企业定制路由。用户可先对比设备数量与流量需求，再按年付节省费用，年付最低仅需¥150。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度，快速找到适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台，按常用设备数直接对应。",
+          "AI_FEATURE_TEXT_2": "月流量100GB、300GB与1000GB，重度使用可选更高档位。",
+          "AI_FEATURE_TEXT_3": "年付相比月付节省两个月费用，例如旗舰版年付¥350。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成银河加速的选择与配置。",
+          "AI_GUIDE_TITLE": "订阅配置指引",
+          "AI_HERO_INTRO": "银河加速为跨境访问提供多档订阅方案，覆盖100GB到1000GB月流量，支持3至20台设备同时在线。旗舰版与团队版提供IPLC专线与高带宽节点，适合游戏、流媒体与企业协作等场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付可节省两个月费用",
+          "AI_PLANS_INTRO": "对比月流量、设备数量与专线权益，按实际使用规模选择版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数与月流量，在基础版、旗舰版、团队版之间确定版本。",
+          "AI_STEP_TEXT_2": "查看所选版本对客户端与系统的适配要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择版本",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "银河加速多档套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "银河加速三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按设备数与流量区分：基础版3台/100GB适合轻量，旗舰版5台/300GB适合多设备，团队版20台/1000GB适合多人协作。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850，年付折算后平均月费更低。",
+          "AI_FAQ_QUESTION_3": "订阅支持哪些客户端？",
+          "AI_FAQ_ANSWER_3": "常见桌面与移动系统均有对应客户端，建议按操作系统与设备类型挑选，并参照客户端文档完成订阅导入。",
+          "AI_FAQ_QUESTION_4": "多设备同时用会不会冲突？",
+          "AI_FAQ_ANSWER_4": "每档套餐设定了同时在线设备上限，基础版3台、旗舰版5台、团队版20台，超出上限时需升级或调整在线设备。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_ANSWER_5": "IPLC专线主要用于游戏与实时交互场景，减少绕行节点，旗舰版与团队版包含专线优化或高带宽节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sakuracatjc.com",
+    "host": "sakuracatjc.com"
+  },
+  "file_hashes": {
+    "index.html": "43f721452ce072767c21babb7964c68546c86630bde3727475c6407b5c0d87de",
+    "sitemap.xml": "2fa415781d75745569eac6602cb546f71c701ad4d7728028aaa1d0dce8a33988",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "368312faf3a5eea2a42c2fe97060fe7ca0f49a7578c594029d07ea78fc748df2",
+    "robots.txt": "95ec6797a7526d59163673f3fbc024dd3dbdf2a449ce783c2b9663499f69f823",
+    "3970e624fccd16a7e00183061e0de469.txt": "814f72e1b4c4d755448cf53557786ae43cd90cc4228230890fdeb490db2143b7"
+  },
+  "revision": "4b092b880e9e57a72e7db973d7ee0dcb2759826787e9f4153428150d93b11689"
+}
